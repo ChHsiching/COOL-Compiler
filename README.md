@@ -1,4 +1,4 @@
-# COOLCompiler
+# COOL-Compiler
 
 <a href="https://gitmoji.dev">
   <img
